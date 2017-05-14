@@ -1,7 +1,7 @@
 {
     "name": "selvinortiz/spamguard",
     "description": "Spam Guard harnesses the power of Akismet to fight Spam",
-    "version": "0.7.2",
+    "version": "0.7.1",
     "type": "craft-plugin",
     "license": "MIT",
     "authors": [
@@ -29,7 +29,7 @@
         "developer": "Selvin Ortiz",
         "developerUrl": "https://selvinortiz.com",
         "description": "Spam Guard harnesses the power of Akismet to fight Spam",
-        "hasCpSection": false,
-        "hasCpSettings": false
+        "hasCpSection": true,
+        "hasCpSettings": true
     }
 }
